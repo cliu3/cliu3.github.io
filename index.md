@@ -32,13 +32,13 @@ Nanjing, China (2006-2010)
 
 **Liu, C.**, Cowles, G., Zemeckis, D.R., Cadrin, S.X, and Dean, M.J. *In press*. Validation of a hidden Markov model for the geolocation of Atlantic cod. Submitted to Canadian Journal of Fisheries and Aquatic Sciences. [Accepted manuscript](documents/CJFAS_revision_submitted.pdf)
 
-Zemeckis, D.R., **Liu, C.**, Cowles, G.W., Dean, M.J., Hoffman, W.S., Martins, D., and Cadrin, S.X. *In press*. Seasonal movements and connectivity of an Atlantic cod (*Gadus morhua*) spawning component in the western Gulf of Maine. ICES Journal of Marine Science. [doi: 10.1093/icesjms/fsw190](http://dx.doi.org/10.1093/icesjms/fsw190)
+Zemeckis, D.R., **Liu, C.**, Cowles, G.W., Dean, M.J., Hoffman, W.S., Martins, D., and Cadrin, S.X. *In press*. Seasonal movements and connectivity of an Atlantic cod (*Gadus morhua*) spawning component in the western Gulf of Maine. ICES Journal of Marine Science. [doi:10.1093/icesjms/fsw190](http://dx.doi.org/10.1093/icesjms/fsw190)
 
-**Liu, C**., Cowles, G., Churchill, J. and Stokesbury, K. (2015), Connectivity of the bay scallop (*Argopecten irradians*) in Buzzards Bay, Massachusetts, U.S.A. *Fisheries Oceanography*, 24(4):364–382. [doi: 10.1111/fog.12114](http://dx.doi.org/10.1111/fog.12114) [[PDF](documents/bay_scallop_FOG_revision_unmarked.pdf)]
+**Liu, C**., Cowles, G., Churchill, J. and Stokesbury, K. (2015), Connectivity of the bay scallop (*Argopecten irradians*) in Buzzards Bay, Massachusetts, U.S.A. *Fisheries Oceanography*, 24(4):364–382. [doi:10.1111/fog.12114](http://dx.doi.org/10.1111/fog.12114) [[PDF](documents/bay_scallop_FOG_revision_unmarked.pdf)]
 
-DeCelles, G., Cowles, G., **Liu, C**., and Cadrin, S. (2015), Modeled transport of winter flounder larvae spawned in coastal waters of the Gulf of Maine. *Fisheries Oceanography*, 24(5):430–444. [doi: 10.1111/fog.12120](http://dx.doi.org/10.1111/fog.12120)
+DeCelles, G., Cowles, G., **Liu, C**., and Cadrin, S. (2015), Modeled transport of winter flounder larvae spawned in coastal waters of the Gulf of Maine. *Fisheries Oceanography*, 24(5):430–444. [doi:10.1111/fog.12120](http://dx.doi.org/10.1111/fog.12120)
 
-Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The impact of the second seasonal spawn on the northern bay scallop. *Marine and Coastal Fisheries*, 7(1):419–433. [doi: 10.1080/19425120.2015.1065301](http://dx.doi.org/10.1080/19425120.2015.1065301) [[open access PDF](http://www.tandfonline.com/doi/pdf/10.1080/19425120.2015.1065301?needAccess=true)]
+Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The impact of the second seasonal spawn on the northern bay scallop. *Marine and Coastal Fisheries*, 7(1):419–433. [doi:10.1080/19425120.2015.1065301](http://dx.doi.org/10.1080/19425120.2015.1065301) [[open access PDF](http://www.tandfonline.com/doi/pdf/10.1080/19425120.2015.1065301?needAccess=true)]
 
 [//]: # (##### *Submitted Manuscripts in Review:*)
 
