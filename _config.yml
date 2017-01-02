@@ -12,5 +12,5 @@ github_username:  cliu3
 markdown: kramdown
 
 google_analytics: UA-71775586-1
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-dinky
