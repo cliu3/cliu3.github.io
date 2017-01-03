@@ -76,7 +76,7 @@ DeCelles, G., Cowles, G., **Liu, C.** and Cadrin, S. [Spawning site selection by
 email: cliu3[AT]umassd.edu
 
 [![Foo](/images/github-64.png)](https://github.com/cliu3)
-[![Foo](/images/google_scholar.png =40x)](https://scholar.google.com/citations?user=5gnCgYsAAAAJ)
+<a href="https://scholar.google.com/citations?user=5gnCgYsAAAAJ"><img src="/images/google_scholar.png" width="40"></a>
 [![Foo](/images/linkedin.png)](https://www.linkedin.com/in/chang-liu-92023728)
 [![Foo](/images/researchgate.png)](https://www.researchgate.net/profile/Chang_Liu17)
 [![Foo](/images/orcid.gif)](http://orcid.org/0000-0003-3663-7671)
