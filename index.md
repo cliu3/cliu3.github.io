@@ -30,7 +30,7 @@ Nanjing, China (2006-2010)
 
 #### Journal Articles
 
-**Liu, C.**, Cowles, G., Zemeckis, D.R., Cadrin, S.X, and Dean, M.J. *In press*. Validation of a hidden Markov model for the geolocation of Atlantic cod. Canadian Journal of Fisheries and Aquatic Sciences. [Accepted manuscript](documents/CJFAS_revision_submitted.pdf)
+**Liu, C.**, Cowles, G., Zemeckis, D.R., Cadrin, S.X, and Dean, M.J. *In press*. Validation of a hidden Markov model for the geolocation of Atlantic cod. Canadian Journal of Fisheries and Aquatic Sciences. [doi:10.1139/cjfas-2016-0376](http://dx.doi.org/10.1139/cjfas-2016-0376). [[Accepted manuscript](documents/CJFAS_revision_submitted.pdf)]
 
 Zemeckis, D.R., **Liu, C.**, Cowles, G.W., Dean, M.J., Hoffman, W.S., Martins, D., and Cadrin, S.X. *In press*. Seasonal movements and connectivity of an Atlantic cod (*Gadus morhua*) spawning component in the western Gulf of Maine. ICES Journal of Marine Science. [doi:10.1093/icesjms/fsw190](http://dx.doi.org/10.1093/icesjms/fsw190)
 
