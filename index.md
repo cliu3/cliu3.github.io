@@ -53,17 +53,19 @@ Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The impact of the second seaso
 **Liu, C.** (2014). Quantifying connectivity in Buzzards Bay with application to the study of recruitment variability in the bay scallop (*Argopecten irradians*) Master’s thesis. University of Massachusetts Dartmouth, Dartmouth, MA. [doi:10.13140/RG.2.1.4007.6965](http://dx.doi.org/10.13140/RG.2.1.4007.6965).
 
 ### CONFERENCE PRESENTATIONS
-**Liu, C.**, Cowles, G., Zemeckis, D., Cadrin, S. and Dean, M. [Development and Validation of an HMM-based Geolocation Method Using Archival Tagging Data for Atlantic Cod](https://afs.confex.com/afs/2016/meetingapp.cgi/Paper/24545). American Fisheries Society 146th Annual Meeting. Aug. 2016, Kansas City, MO (Oral presentation)
+**Liu, C.** and Cowles, G., [Developing and validating a GPU-accelerated geolocation method for groundfish using the particle filter](documents/snec-2017-poster2.pdf). American Fisheries Society Southern New England Chapter 50th Anniversary Meeting. Feb. 2017, Mystic, CT (Poster presentation)
 
-**Liu, C.**, Cowles, G., Zemeckis, D., Cadrin, S. and Dean, M. [Geolocation of Atlantic cod off New England using archival tagging data and hidden Markov models](documents/ISEC2016_ABSRACT.pdf). International Statistical Ecology Conference. Jun. 2016, Seattle, WA (Oral presentation)
+**Liu, C.**, Cowles, G., Zemeckis, D., Cadrin, S. and Dean, M., [Development and Validation of an HMM-based Geolocation Method Using Archival Tagging Data for Atlantic Cod](https://afs.confex.com/afs/2016/meetingapp.cgi/Paper/24545). American Fisheries Society 146th Annual Meeting. Aug. 2016, Kansas City, MO (Oral presentation)
 
-**Liu, C.**, Cowles, G., Zemeckis, D., Cadrin, S. and Dean, M. [Developing and validating geolocation methods for groundfish species off New England](documents/P14_Liu.pdf). 2015 The Regional Association for Research on the Gulf of Maine (RARGOM) Annual Science Meeting. Oct. 2015, Portsmouth, NH (Poster presentation)
+**Liu, C.**, Cowles, G., Zemeckis, D., Cadrin, S. and Dean, M., [Geolocation of Atlantic cod off New England using archival tagging data and hidden Markov models](documents/ISEC2016_ABSRACT.pdf). International Statistical Ecology Conference. Jun. 2016, Seattle, WA (Oral presentation)
 
-**Liu, C.**, Cowles, G., Zemeckis, D. and Cadrin, S. [Developing and validating geolocation methods for groundfish species off New England](https://afs.confex.com/afs/2015/webprogram/Paper21103.html). American Fisheries Society 145th Annual Meeting. Aug. 2015, Portland, OR (Poster presentation)
+**Liu, C.**, Cowles, G., Zemeckis, D., Cadrin, S. and Dean, M., [Developing and validating geolocation methods for groundfish species off New England](documents/P14_Liu.pdf). 2015 The Regional Association for Research on the Gulf of Maine (RARGOM) Annual Science Meeting. Oct. 2015, Portsmouth, NH (Poster presentation)
 
-**Liu, C.**, Cowles, G. and Churchill, J. Quantifying Connectivity in Buzzards Bay with Application to the Study of Recruitment Variability in the Bay Scallop (*Argopecten irradians*). American Fisheries Society Southern New England Chapter 2013 Summer Meeting. Jun. 2013, Bristol, RI (Oral presentation)
+**Liu, C.**, Cowles, G., Zemeckis, D. and Cadrin, S., [Developing and validating geolocation methods for groundfish species off New England](https://afs.confex.com/afs/2015/webprogram/Paper21103.html). American Fisheries Society 145th Annual Meeting. Aug. 2015, Portland, OR (Poster presentation)
 
-**Liu, C.**, Cowles, G. and Churchill, J. Quantifying Connectivity in Buzzards Bay with Application to the Study of Recruitment Variability in the Bay Scallop (*Argopecten irradians*). NOAA NEFSC 32nd Milford Aquaculture Seminar. Mar. 2012, Westbrook, CT (Poster presentation)
+**Liu, C.**, Cowles, G. and Churchill, J., Quantifying Connectivity in Buzzards Bay with Application to the Study of Recruitment Variability in the Bay Scallop (*Argopecten irradians*). American Fisheries Society Southern New England Chapter 2013 Summer Meeting. Jun. 2013, Bristol, RI (Oral presentation)
+
+**Liu, C.**, Cowles, G. and Churchill, J., Quantifying Connectivity in Buzzards Bay with Application to the Study of Recruitment Variability in the Bay Scallop (*Argopecten irradians*). NOAA NEFSC 32nd Milford Aquaculture Seminar. Mar. 2012, Westbrook, CT (Poster presentation)
 
 #### *Other conference abstracts:*
 Zemeckis, D.R., Dean, M.J., Hoffman, **Liu, C.**, Cowles, G., Martins, D., Kerr, L., Armstrong, M.P., and Cadrin, S.X. [Implications of Atlantic cod seasonal movements and population connectivity for fishery management and stock assessment in the Gulf of Maine](http://www.ices.dk/sites/pub/ASCExtendedAbstracts/Shared%20Documents/E%20-%20Beyond%20ocean%20connectivity.%20Embracing%20advances%20on%20early%20life%20stages%20and%20adult%20connectivity%20to%20assessment%20and%20management/E1015.pdf). ICES 2015 Annual Science Conference, Sep. 2015, Copenhagen, Denmark
