@@ -53,6 +53,8 @@ Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The impact of the second seaso
 **Liu, C.** (2014). Quantifying connectivity in Buzzards Bay with application to the study of recruitment variability in the bay scallop (*Argopecten irradians*) Master’s thesis. University of Massachusetts Dartmouth, Dartmouth, MA. [doi:10.13140/RG.2.1.4007.6965](http://dx.doi.org/10.13140/RG.2.1.4007.6965).
 
 ### CONFERENCE PRESENTATIONS
+**Liu, C.** and Cowles, G., [A GPU-accelerated particle filter geolocation method for demersal fish using archival tagging data](http://ices.dk/_layouts/15/ASCProgram/downloadpdf/downloadpdf.ashx?generatepdf=http://ices.dk/sites/pub/ascabstract2017/Abstracts/ICESASCAbstract.docx). ICES Annual Science Conference. Sep. 2017, Fort Lauderdale, FL (Oral presentation)
+
 **Liu, C.** and Cowles, G., [Developing and validating a GPU-accelerated geolocation method for groundfish using the particle filter](documents/snec-2017-poster2.pdf). American Fisheries Society Southern New England Chapter 50th Anniversary Meeting. Feb. 2017, Mystic, CT (Poster presentation)
 
 **Liu, C.**, Cowles, G., Zemeckis, D., Cadrin, S. and Dean, M., [Development and Validation of an HMM-based Geolocation Method Using Archival Tagging Data for Atlantic Cod](https://afs.confex.com/afs/2016/meetingapp.cgi/Paper/24545). American Fisheries Society 146th Annual Meeting. Aug. 2016, Kansas City, MO (Oral presentation)
