@@ -40,7 +40,7 @@ Zemeckis, D.R., **Liu, C.**, Cowles, G.W., Dean, M.J., Hoffman, W.S., Martins, D
 
 DeCelles, G., Cowles, G., **Liu, C**., and Cadrin, S. (2015), Modeled transport of winter flounder larvae spawned in coastal waters of the Gulf of Maine. *Fisheries Oceanography*, 24(5):430–444. [doi:10.1111/fog.12120](http://dx.doi.org/10.1111/fog.12120) [<A HREF="mailto:cliu3@umassd.edu?Subject=Paper%20request&Body=I%20would%20like%20to%20request%20the%20PDF%20file%20for%20the%20following%20paper%3A%0A%0ADeCelles%2C%20G.%2C%20Cowles%2C%20G.%2C%20Liu%2C%20C.%2C%20and%20Cadrin%2C%20S.%20%282015%29%2C%20Modeled%20transport%20of%20winter%20flounder%20larvae%20spawned%20in%20coastal%20waters%20of%20the%20Gulf%20of%20Maine.%20Fisheries%20Oceanography%2C%2024%285%29%3A430-444.%20doi%3A10.1111/fog.12120%0A%0A">request PDF</A>]
 
-Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The Impact of the Second Seasonal Spawn on the Nantucket Population of the Northern Bay Scallop. *Marine and Coastal Fisheries*, 7(1):419–433. [doi:10.1080/19425120.2015.1065301](http://dx.doi.org/10.1080/19425120.2015.1065301) [[open access PDF](http://www.tandfonline.com/doi/pdf/10.1080/19425120.2015.1065301?needAccess=true)]
+Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The impact of the second seasonal spawn on the Nantucket population of the northern bay scallop. *Marine and Coastal Fisheries*, 7(1):419–433. [doi:10.1080/19425120.2015.1065301](http://dx.doi.org/10.1080/19425120.2015.1065301) [[open access PDF](http://www.tandfonline.com/doi/pdf/10.1080/19425120.2015.1065301?needAccess=true)]
 
 [//]: # (##### *Submitted Manuscripts in Review:*)
 
