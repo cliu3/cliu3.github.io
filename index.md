@@ -29,7 +29,7 @@ Nanjing, China (2006-2010)
 ### PUBLICATIONS
 
 #### Journal Articles
-**Liu, C.**, Cowles, G., Fay, G., Zemeckis, D. (2019), A hardware-accelerated particle filter for the geolocation of demersal fish. *In press*. Fisheries Research, 213:160-171. [doi:10.1016/j.fishres.2019.01.019](https://dx.doi.org/10.1016/j.fishres.2019.01.019). [[Accepted manuscript](documents/hardware-accelerated-particle_FINAL.pdf)]
+**Liu, C.**, Cowles, G., Fay, G., Zemeckis, D. (2019), A hardware-accelerated particle filter for the geolocation of demersal fish. Fisheries Research, 213C(2019):160-171. [doi:10.1016/j.fishres.2019.01.019](https://dx.doi.org/10.1016/j.fishres.2019.01.019). [[Accepted manuscript](documents/hardware-accelerated-particle_FINAL.pdf)]
 
 **Liu, C.**, Cowles, G., Zemeckis, D.R., Cadrin, S.X, and Dean, M.J. (2017), Validation of a hidden Markov model for the geolocation of Atlantic cod. *Canadian Journal of Fisheries and Aquatic Sciences*, 74(11): 1862-1877. [doi:10.1139/cjfas-2016-0376](https://dx.doi.org/10.1139/cjfas-2016-0376). [[Accepted manuscript](documents/CJFAS_validation.pdf)]
 
