@@ -1,6 +1,6 @@
 ### EDUCATION
-Ph.D. Student, [School for Marine Science and Technology](http://www.umassd.edu/smast/), University of Massachusetts Dartmouth,
-New Bedford, MA, USA (2014-present)
+Ph.D., [School for Marine Science and Technology](http://www.umassd.edu/smast/), University of Massachusetts Dartmouth,
+New Bedford, MA, USA (2014-2019)
 
 
 M.S., School for Marine Science and Technology, University of Massachusetts Dartmouth,
@@ -50,7 +50,9 @@ Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The impact of the second seaso
 
 
 
-#### Thesis
+#### Thesis/Dissertation
+**Liu, C.** (2019). Geolocation methods for demersal fish species using archival tagging data. Ph.D. dissertation. University of Massachusetts Dartmouth, Dartmouth, MA.
+
 **Liu, C.** (2014). Quantifying connectivity in Buzzards Bay with application to the study of recruitment variability in the bay scallop (*Argopecten irradians*) Master’s thesis. University of Massachusetts Dartmouth, Dartmouth, MA. [doi:10.13140/RG.2.1.4007.6965](http://dx.doi.org/10.13140/RG.2.1.4007.6965).
 
 ### CONFERENCE PRESENTATIONS
