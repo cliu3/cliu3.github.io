@@ -29,6 +29,8 @@ Nanjing, China (2006-2010)
 ### PUBLICATIONS
 
 #### Journal Articles
+**Liu, C.**, Bank, C., Kersula, M., Cowles, G.W., Zemeckis, D.R., Cadrin, S.X, McGuire, C. (2019), Movements of Atlantic halibut in the Gulf of Maine based on geolocation. ICES Journal of Marine Science, fsz169, [doi:10.1093/icesjms/fsz169](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsz169/5571136?guestAccessKey=f1795a83-6959-47ba-a311-ab1222e1336f)
+
 **Liu, C.**, Cowles, G.W., Zemeckis, D.R., Fay, G., Le Bris, A., Cadrin, S.X. (2019), A hardware-accelerated particle filter for the geolocation of demersal fish. Fisheries Research, 213C(2019):160-171. [doi:10.1016/j.fishres.2019.01.019](https://dx.doi.org/10.1016/j.fishres.2019.01.019). [[Accepted manuscript](documents/hardware-accelerated-particle_FINAL.pdf)]
 
 **Liu, C.**, Cowles, G., Zemeckis, D.R., Cadrin, S.X, and Dean, M.J. (2017), Validation of a hidden Markov model for the geolocation of Atlantic cod. *Canadian Journal of Fisheries and Aquatic Sciences*, 74(11): 1862-1877. [doi:10.1139/cjfas-2016-0376](https://dx.doi.org/10.1139/cjfas-2016-0376). [[Accepted manuscript](documents/CJFAS_validation.pdf)]
