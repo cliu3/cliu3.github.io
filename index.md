@@ -29,7 +29,7 @@ Nanjing, China (2006-2010)
 ### PUBLICATIONS
 
 #### Journal Articles
-**Liu, C.**, Bank, C., Kersula, M., Cowles, G.W., Zemeckis, D.R., Cadrin, S.X, McGuire, C. (2019), Movements of Atlantic halibut in the Gulf of Maine based on geolocation. ICES Journal of Marine Science, fsz169, [doi:10.1093/icesjms/fsz169](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsz169/5571136?guestAccessKey=f1795a83-6959-47ba-a311-ab1222e1336f)
+**Liu, C.**, Bank, C., Kersula, M., Cowles, G.W., Zemeckis, D.R., Cadrin, S.X, McGuire, C. (2019), Movements of Atlantic halibut in the Gulf of Maine based on geolocation. ICES Journal of Marine Science, fsz169, [doi:10.1093/icesjms/fsz169](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsz169/5571136?guestAccessKey=f1795a83-6959-47ba-a311-ab1222e1336f) ([Editor's Choice](https://www.ices.dk/news-and-events/news-archive/news/Pages/EditorsChoiceChangLiu.aspx))
 
 **Liu, C.**, Cowles, G.W., Zemeckis, D.R., Fay, G., Le Bris, A., Cadrin, S.X. (2019), A hardware-accelerated particle filter for the geolocation of demersal fish. Fisheries Research, 213C(2019):160-171. [doi:10.1016/j.fishres.2019.01.019](https://dx.doi.org/10.1016/j.fishres.2019.01.019). [[Accepted manuscript](documents/hardware-accelerated-particle_FINAL.pdf)]
 
