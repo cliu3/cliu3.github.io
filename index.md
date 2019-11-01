@@ -90,7 +90,7 @@ DeCelles, G., Cowles, G., **Liu, C.** and Cadrin, S. [Spawning site selection by
 [SMAST researchers employ new methods of fish geolocation](http://www.southcoasttoday.com/article/20151009/NEWS/151009357). The Standard Times. Oct. 10, 2015.
 
 ### Contact
-email: cliu3[AT]umassd.edu
+email: chang[AT]changliu.co
 
 [![Foo](/images/github-64.png)](https://github.com/cliu3)
 <a href="https://scholar.google.com/citations?user=5gnCgYsAAAAJ"><img src="/images/google_scholar.png" width="40"></a>
