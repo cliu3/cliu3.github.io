@@ -11,7 +11,14 @@ Nanjing, China (2006-2010)
 
 ---
 
-### PROJECTS
+### EXPERIENCES
+**Postdoctoral Research Associate (2019–present)**, [Connecticut Institute for Resilience & Climate Adaptation](https://circa.uconn.edu/), University of Connecticut, Groton, CT
+
+
+**Graduate Research Assistant (2010–2019)**, School for Marine Science and Technology, University of Massachusetts Dartmouth, New Bedford, MA 
+
+---
+<!-- ### PROJECTS
 * __Investigating the stock structure and life history of Atlantic halibut, a Species of Concern off New England (2017; NOAA S-K Grant)__
 
    The goal is to investigate the stock structure and life history of Atlantic halibut by tagging and collecting biological samples from halibut caught off Cape Cod. Stock structure will be investigated by observing movement traced via innovative geolocation of halibut tagged with pop-up satellite archival tags (PSATs). PSAT data will be used to reveal halibut seasonal habitat occupancy and behavior. I am charged with the development of geolocation methodology for halibut using PSAT data and interpretation of results with respect to their behavior, movements, and stock structure. This research will improve our understanding of halibut population dynamics and the status of the resource. 
@@ -24,7 +31,7 @@ Nanjing, China (2006-2010)
 
    To investigate the extent to which the fluctuations of bay scallop population may be due to, yearly variations in the transport of scallop larvae from spawning areas to suitable juvenile habitat (settlement zones), a high-resolution hydrodynamic model was used to drive [an individual-based Lagrangian tracking model](https://github.com/cliu3/fiscm) of scallop larval transport. The model results identify spawning areas from which larvae have the greatest probability of transport to juvenile habitat, which can be use by fishery managers to increase scallop populations either locally or over a broad area.
 
----
+--- -->
 
 ### PUBLICATIONS
 
@@ -58,6 +65,9 @@ Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The impact of the second seaso
 **Liu, C.** (2014). Quantifying connectivity in Buzzards Bay with application to the study of recruitment variability in the bay scallop (*Argopecten irradians*) Master’s thesis. University of Massachusetts Dartmouth, Dartmouth, MA. [doi:10.13140/RG.2.1.4007.6965](http://dx.doi.org/10.13140/RG.2.1.4007.6965).
 
 ### CONFERENCE PRESENTATIONS
+**Liu, C.**, Jia, Y., Onat, Y., Ilia, A., Cifuentes-Lorenzen, A., Fake, T., O'Donnell, J. [Modeling return periods of strong storms for Resilient Connecticut](https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/643563). Ocean Sciences Meeting. Feb. 2020, San Diego, CA (Poster presentation)
+
+
 **Liu, C.**, Bank, C., Cowles, G., Zemeckis, D., Cadrin, S., and McGuire, C., [Tagging and Geolocation of Atlantic Halibut Off Cape Cod Using Pop-up Satellite Archival Tags](https://afs.confex.com/afs/2018/meetingapp.cgi/Paper/33742). American Fisheries Society 148th Annual Meeting. Aug. 2018, Atlantic City, NJ (Oral presentation)
 
 **Liu, C.** and Cowles, G., [A Particle Filter Geolocation Method With Hardware Acceleration For Demersal Fish](http://dx.doi.org/10.13140/RG.2.2.24083.73766). American Fisheries Society 148th Annual Meeting. Aug. 2018, Atlantic City, NJ (Poster presentation)
@@ -86,6 +96,7 @@ Zemeckis, D.R., Dean, M.J., Hoffman, **Liu, C.**, Cowles, G., Martins, D., Kerr,
 DeCelles, G., Cowles, G., **Liu, C.** and Cadrin, S. [Spawning site selection by winter flounder in the Gulf of Maine: Implications for connectivity and recruitment](https://afs.confex.com/afs/2014/webprogram/Paper14129.html). American Fisheries Society 144th Annual Meeting, Aug. 2014, Quebec City, Canada
 
 ### MEDIA
+[Flatfish Forays - Investigating Atlantic halibut movements](documents/OTW_NE_Mar2020-76-82.pdf). On The Water, New England Edition. March 2020.
 
 [SMAST researchers employ new methods of fish geolocation](http://www.southcoasttoday.com/article/20151009/NEWS/151009357). The Standard Times. Oct. 10, 2015.
 
