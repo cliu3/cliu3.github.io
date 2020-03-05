@@ -9,15 +9,12 @@ New Bedford, MA, USA (2010-2013)
 B.S., Marine Science, School of Atmospheric Science, Nanjing University of Information Science & Technology,
 Nanjing, China (2006-2010)
 
----
-
 ### EXPERIENCES
 **Postdoctoral Research Associate (2019–present)**, [Connecticut Institute for Resilience & Climate Adaptation](https://circa.uconn.edu/), University of Connecticut, Groton, CT
 
 
 **Graduate Research Assistant (2010–2019)**, School for Marine Science and Technology, University of Massachusetts Dartmouth, New Bedford, MA 
 
----
 <!-- ### PROJECTS
 * __Investigating the stock structure and life history of Atlantic halibut, a Species of Concern off New England (2017; NOAA S-K Grant)__
 
@@ -90,7 +87,7 @@ Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The impact of the second seaso
 
 **Liu, C.**, Cowles, G. and Churchill, J., Quantifying Connectivity in Buzzards Bay with Application to the Study of Recruitment Variability in the Bay Scallop (*Argopecten irradians*). NOAA NEFSC 32nd Milford Aquaculture Seminar. Mar. 2012, Westbrook, CT (Poster presentation)
 
-#### *Other conference abstracts:*
+#### *Other conference contributions:*
 Zemeckis, D.R., Dean, M.J., Hoffman, **Liu, C.**, Cowles, G., Martins, D., Kerr, L., Armstrong, M.P., and Cadrin, S.X. [Implications of Atlantic cod seasonal movements and population connectivity for fishery management and stock assessment in the Gulf of Maine](http://www.ices.dk/sites/pub/ASCExtendedAbstracts/Shared%20Documents/E%20-%20Beyond%20ocean%20connectivity.%20Embracing%20advances%20on%20early%20life%20stages%20and%20adult%20connectivity%20to%20assessment%20and%20management/E1015.pdf). ICES 2015 Annual Science Conference, Sep. 2015, Copenhagen, Denmark
 
 DeCelles, G., Cowles, G., **Liu, C.** and Cadrin, S. [Spawning site selection by winter flounder in the Gulf of Maine: Implications for connectivity and recruitment](https://afs.confex.com/afs/2014/webprogram/Paper14129.html). American Fisheries Society 144th Annual Meeting, Aug. 2014, Quebec City, Canada
