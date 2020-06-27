@@ -33,6 +33,8 @@ Nanjing, China (2006-2010)
 ### PUBLICATIONS
 
 #### Journal Articles
+**Liu, C.**, Jia, Y., Onat, Y., Ilia, A., Cifuentes-Lorenzen, A.,Ilia, A., McCardell, G., Fake, T., O'Donnell, J. (2020) Estimating the annual exceedance probability of water levels and wave heights from high resolution coupled wave-circulation models in Long Island Sound. Journal of Marine Science and Engineering:8(7):475. [doi:10.3390/jmse8070475](https://www.mdpi.com/2077-1312/8/7/475) (open access).
+
 **Liu, C.**, Bank, C., Kersula, M., Cowles, G.W., Zemeckis, D.R., Cadrin, S.X, McGuire, C. (2019), Movements of Atlantic halibut in the Gulf of Maine based on geolocation. ICES Journal of Marine Science, 76(7):2020-2032, [doi:10.1093/icesjms/fsz169](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsz169/5571136?guestAccessKey=f1795a83-6959-47ba-a311-ab1222e1336f) (open access, [Editor's Choice](https://www.ices.dk/news-and-events/news-archive/news/Pages/EditorsChoiceChangLiu.aspx))
 
 **Liu, C.**, Cowles, G.W., Zemeckis, D.R., Fay, G., Le Bris, A., Cadrin, S.X. (2019), A hardware-accelerated particle filter for the geolocation of demersal fish. Fisheries Research, 213C(2019):160-171. [doi:10.1016/j.fishres.2019.01.019](https://dx.doi.org/10.1016/j.fishres.2019.01.019). [[Accepted manuscript](documents/hardware-accelerated-particle_FINAL.pdf)]
