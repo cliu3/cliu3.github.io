@@ -1,8 +1,9 @@
 # Site settings
 title: Chang Liu
-email: cliu3@umassd.edu
+email: chang[AT]changliu.co
 description: > # this means to ignore newlines until "baseurl:"
-  Ph.D. in Marine Science
+  Ph.D. in Marine Science <br>
+  Email: chang[AT]changliu.co
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://changliu.co" # the base hostname & protocol for your site
 twitter_username: 
