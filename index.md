@@ -108,4 +108,4 @@ email: chang[AT]changliu.co
 <a href="https://academic.microsoft.com/#/detail/2444526164"><img src="/images/microsoftacademicsearch-icon.jpg" width="40"></a>
 <a href="https://www.researchgate.net/profile/Chang_Liu17"><img src="/images/researchgate.png" width="40"></a>
 [![Foo](/images/orcid.gif)](http://orcid.org/0000-0003-3663-7671)
-[![Foo](/images/ResearchID.jpg)](http://www.researcherid.com/rid/K-6620-2015)
+[![Foo](/images/Publons.png)](https://publons.com/researcher/1287732/chang-liu/)
