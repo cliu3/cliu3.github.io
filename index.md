@@ -33,7 +33,7 @@ Nanjing, China (2006-2010)
 ### PUBLICATIONS
 
 #### Journal Articles
-**Liu, C.**, Onat, Y., Jia, Y., O'Donnell, J. (2021) Modeling nearshore dynamics of extreme storms in complex environments of Connecticut. Coastal Engineering (_in press_)
+**Liu, C.**, Onat, Y., Jia, Y., O'Donnell, J. (2021) Modeling nearshore dynamics of extreme storms in complex environments of Connecticut. Coastal Engineering, [doi:10.1016/j.coastaleng.2021.103950](https://doi.org/10.1016/j.coastaleng.2021.103950)
 
 **Liu, C.**, Jia, Y., Onat, Y., Ilia, A., Cifuentes-Lorenzen, A.,Ilia, A., McCardell, G., Fake, T., O'Donnell, J. (2020) Estimating the annual exceedance probability of water levels and wave heights from high resolution coupled wave-circulation models in Long Island Sound. Journal of Marine Science and Engineering:8(7):475. [doi:10.3390/jmse8070475](https://www.mdpi.com/2077-1312/8/7/475) (open access).
 
