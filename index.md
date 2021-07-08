@@ -99,7 +99,14 @@ DeCelles, G., Cowles, G., **Liu, C.** and Cadrin, S. [Spawning site selection by
 ### MEDIA
 [Flatfish Forays - Investigating Atlantic halibut movements](documents/OTW_NE_Mar2020-76-82.pdf). On The Water, New England Edition. March 2020.
 
-[SMAST researchers employ new methods of fish geolocation](http://www.southcoasttoday.com/article/20151009/NEWS/151009357). The Standard Times. Oct. 10, 2015.
+[SMAST researchers employ new methods of fish geolocation](http://www.southcoasttoday.com/article/20151009/NEWS/151009357). The Standard Times. October 10, 2015.
+
+[For Future Flood Control, Cities Need Strategy](https://today.uconn.edu/2021/07/for-future-flood-control-cities-need-strategy/?utm_source=faculty-staff-daily-digest&utm_medium=email&utm_campaign=daily). UConn Today. July 1, 2021.
+
+[Chang Liu '19: PhD in marine science](https://www.umassd.edu/feature-stories/2019/chang-liu-19.html). UMass Dartmouth Feature Stories. May 2, 2019.
+
+[NOAA Fisheries awards SMAST researchers more than $950,000 in Saltonstall-Kennedy grants](https://www.umassd.edu/smast/news/noaa-fisheries-awards-smast-researchers-more-than-950000-in-grants.html). UMass Dartmouth News. June 25, 2015.
+
 
 ### Contact
 email: chang[AT]changliu.co
