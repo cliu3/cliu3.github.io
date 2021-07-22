@@ -33,6 +33,9 @@ Nanjing, China (2006-2010)
 ### PUBLICATIONS
 
 #### Journal Articles
+
+Shackell, N. L., Fisher, J. A. D., den Heyer, C. E., Hennen, D. R., Seitz, A. C., Le Bris, A., Robert, D., Kersula, M. E., Cadrin, S. X., McBride, R. S., McGuire, C. H., Kess, T., Ransier, K. T., **Liu, C.**, Czich, A., & Frank, K. T. (2021) Spatial ecology of Atlantic halibut across the Northwest Atlantic: A recovering species in an era of climate change, Reviews in Fisheries Science & Aquaculture, [doi:10.1080/23308249.2021.1948502](https://doi.org/10.1080/23308249.2021.1948502) (open access).
+ 
 **Liu, C.**, Onat, Y., Jia, Y., O'Donnell, J. (2021) Modeling nearshore dynamics of extreme storms in complex environments of Connecticut. Coastal Engineering, 168(2021):103950, [doi:10.1016/j.coastaleng.2021.103950](https://doi.org/10.1016/j.coastaleng.2021.103950) (open access).
 
 **Liu, C.**, Jia, Y., Onat, Y., Ilia, A., Cifuentes-Lorenzen, A.,Ilia, A., McCardell, G., Fake, T., O'Donnell, J. (2020) Estimating the annual exceedance probability of water levels and wave heights from high resolution coupled wave-circulation models in Long Island Sound. Journal of Marine Science and Engineering, 8(7):475. [doi:10.3390/jmse8070475](https://www.mdpi.com/2077-1312/8/7/475) (open access).
