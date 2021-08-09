@@ -10,7 +10,10 @@ B.S., Marine Science, School of Atmospheric Science, Nanjing University of Infor
 Nanjing, China (2006-2010)
 
 ### EXPERIENCES
-**Postdoctoral Research Associate (2019–present)**, [Connecticut Institute for Resilience & Climate Adaptation](https://circa.uconn.edu/), University of Connecticut, Groton, CT
+**Research Associate (2021–present)**, [Connecticut Institute for Resilience & Climate Adaptation](https://circa.uconn.edu/), University of Connecticut, Groton, CT
+
+
+**Postdoctoral Research Associate (2019–2021)**, [Connecticut Institute for Resilience & Climate Adaptation](https://circa.uconn.edu/), University of Connecticut, Groton, CT
 
 
 **Graduate Research Assistant (2010–2019)**, School for Marine Science and Technology, University of Massachusetts Dartmouth, New Bedford, MA 
