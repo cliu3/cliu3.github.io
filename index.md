@@ -72,7 +72,7 @@ Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The impact of the second seaso
 **Liu, C.** (2014). Quantifying connectivity in Buzzards Bay with application to the study of recruitment variability in the bay scallop (*Argopecten irradians*) Master’s thesis. University of Massachusetts Dartmouth, Dartmouth, MA. [doi:10.13140/RG.2.1.4007.6965](http://dx.doi.org/10.13140/RG.2.1.4007.6965).
 
 ### CONFERENCE PRESENTATIONS
-**Liu, C.**, Massidda, C., Onat, Y., O'Donnell, J. [Modeling and mapping of urban flood prone areas with proposed flood control structures](https://asbpa.org/2021/09/20/poster-session-gallery/). 2021 National Coastal Conference. Sep. 2021, New Orleans, LA (Virtual poster presentation)
+**Liu, C.**, Massidda, C., Onat, Y., O'Donnell, J. [Modeling and mapping of urban flood prone areas with proposed flood control structures](https://asbpa.org/2021/09/20/poster-session-gallery/). ASBPA 2021 National Coastal Conference. Sep. 2021, New Orleans, LA (Virtual poster presentation)
 
 **Liu, C.**, Jia, Y., Onat, Y., Ilia, A., Cifuentes-Lorenzen, A., Fake, T., O'Donnell, J. [Modeling return periods of strong storms for Resilient Connecticut](https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/643563). Ocean Sciences Meeting. Feb. 2020, San Diego, CA (Poster presentation)
 
