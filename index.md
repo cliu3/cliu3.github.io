@@ -100,6 +100,8 @@ Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The impact of the second seaso
 **Liu, C.**, Cowles, G. and Churchill, J., Quantifying Connectivity in Buzzards Bay with Application to the Study of Recruitment Variability in the Bay Scallop (*Argopecten irradians*). NOAA NEFSC 32nd Milford Aquaculture Seminar. Mar. 2012, Westbrook, CT (Poster presentation)
 
 #### *Other conference contributions:*
+Jia, Y.,  **Liu, C.**, Onat, Y., O'Donnell, J. Simulating exchange through narrow coastal inlets: The role of horizontal eddy viscosity. Coastal & Estuarine Research Federation (CERF) 26th Biennial Conference. Nov. 2021 (Virtual)
+
 Ransier, K., Le Bris, A., Fisher. J., Claireaux, G., Den Heyer, N., Desgagnes, M., DeVoe, W., Gatti, P., James, T., **Liu, C.**, McGuire, C., Robert, D. Atlantic halibut migratory behavior and stock mixing across the northwest Atlantic. American Fisheries Society 151th Annual Meeting. Nov. 2021, Baltimore, MD (Virtual)
 
 Massidda, C., **Liu, C.**, Onat, Y., O'Donnell, J. GIS modeling of urban flood prone areas. Northeast Arc User Group 2021 Fall meeting, Oct. 2021, New Haven, CT (Virtual)
