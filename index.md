@@ -1,3 +1,12 @@
+### EXPERIENCES
+**Research Associate (2021–present)**, [Connecticut Institute for Resilience & Climate Adaptation](https://circa.uconn.edu/), University of Connecticut, Groton, CT
+
+
+**Postdoctoral Research Associate (2019–2021)**, [Connecticut Institute for Resilience & Climate Adaptation](https://circa.uconn.edu/), University of Connecticut, Groton, CT
+
+
+**Graduate Research Assistant (2010–2019)**, School for Marine Science and Technology, University of Massachusetts Dartmouth, New Bedford, MA 
+
 ### EDUCATION
 Ph.D., [School for Marine Science and Technology](http://www.umassd.edu/smast/), University of Massachusetts Dartmouth,
 New Bedford, MA, USA (2014-2019)
@@ -8,15 +17,6 @@ New Bedford, MA, USA (2010-2013)
 
 B.S., Marine Science, School of Atmospheric Science, Nanjing University of Information Science & Technology,
 Nanjing, China (2006-2010)
-
-### EXPERIENCES
-**Research Associate (2021–present)**, [Connecticut Institute for Resilience & Climate Adaptation](https://circa.uconn.edu/), University of Connecticut, Groton, CT
-
-
-**Postdoctoral Research Associate (2019–2021)**, [Connecticut Institute for Resilience & Climate Adaptation](https://circa.uconn.edu/), University of Connecticut, Groton, CT
-
-
-**Graduate Research Assistant (2010–2019)**, School for Marine Science and Technology, University of Massachusetts Dartmouth, New Bedford, MA 
 
 <!-- ### PROJECTS
 * __Investigating the stock structure and life history of Atlantic halibut, a Species of Concern off New England (2017; NOAA S-K Grant)__
