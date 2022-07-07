@@ -110,7 +110,7 @@ Jia, Y.,  **Liu, C.**, Onat, Y., O'Donnell, J. Simulating exchange through narro
 
 Ransier, K., Le Bris, A., Fisher. J., Claireaux, G., Den Heyer, N., Desgagnes, M., DeVoe, W., Gatti, P., James, T., **Liu, C.**, McGuire, C., Robert, D. Atlantic halibut migratory behavior and stock mixing across the northwest Atlantic. American Fisheries Society 151th Annual Meeting. Nov. 2021, Baltimore, MD (Virtual)
 
-Massidda, C., **Liu, C.**, Onat, Y., O'Donnell, J. GIS modeling of urban flood prone areas. Northeast Arc User Group 2021 Fall meeting, Oct. 2021, New Haven, CT (Virtual)
+Massidda, C., **Liu, C.**, Onat, Y., O'Donnell, J. [GIS modeling of urban flood prone areas](https://resilientconnecticut.uconn.edu/wp-content/uploads/sites/2761/2021/10/posterNEARC21_massidda-FUNWAVE.pdf). Northeast Arc User Group 2021 Fall meeting, Oct. 2021, New Haven, CT (Virtual)
 
 Zemeckis, D.R., Dean, M.J., Hoffman, **Liu, C.**, Cowles, G., Martins, D., Kerr, L., Armstrong, M.P., and Cadrin, S.X. [Implications of Atlantic cod seasonal movements and population connectivity for fishery management and stock assessment in the Gulf of Maine](http://www.ices.dk/sites/pub/ASCExtendedAbstracts/Shared%20Documents/E%20-%20Beyond%20ocean%20connectivity.%20Embracing%20advances%20on%20early%20life%20stages%20and%20adult%20connectivity%20to%20assessment%20and%20management/E1015.pdf). ICES 2015 Annual Science Conference, Sep. 2015, Copenhagen, Denmark
 
