@@ -1,5 +1,5 @@
 ### EXPERIENCES
-**Data Scientist (2023-present)**, [Axiom Data Science](https://axiomdatascience.com/), a Tetra Tech company, North Kingstown, RI
+**MetOcean Data Scientist (2023-present)**, [Axiom Data Science](https://axiomdatascience.com/), a Tetra Tech company, North Kingstown, RI
 
 **Research Associate (2021–2023)**, [Connecticut Institute for Resilience & Climate Adaptation](https://circa.uconn.edu/), University of Connecticut, Groton, CT
 
