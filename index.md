@@ -39,6 +39,8 @@ Nanjing, China (2006-2010)
 
 #### Journal Articles
 
+**Liu, C.**, Onat, Y., and O’Donnell, J. (2023) Modeling the Impact of Sea-Level Rise on Nearshore Flooding Due to Storm Surges. Paper presented at the The 33rd International Ocean and Polar Engineering Conference, Ottawa, Canada, June 2023. [[PDF](documents/ISOPE_2023_Final.pdf)]
+
 Shackell, N. L., Fisher, J. A. D., den Heyer, C. E., Hennen, D. R., Seitz, A. C., Le Bris, A., Robert, D., Kersula, M. E., Cadrin, S. X., McBride, R. S., McGuire, C. H., Kess, T., Ransier, K. T., **Liu, C.**, Czich, A., & Frank, K. T. (2021) Spatial ecology of Atlantic halibut across the Northwest Atlantic: A recovering species in an era of climate change, Reviews in Fisheries Science & Aquaculture, 30(3):281-305, [doi:10.1080/23308249.2021.1948502](https://doi.org/10.1080/23308249.2021.1948502) (open access).
  
 **Liu, C.**, Onat, Y., Jia, Y., O'Donnell, J. (2021) Modeling nearshore dynamics of extreme storms in complex environments of Connecticut. Coastal Engineering, 168(2021):103950, [doi:10.1016/j.coastaleng.2021.103950](https://doi.org/10.1016/j.coastaleng.2021.103950) (open access).
