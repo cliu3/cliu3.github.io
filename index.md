@@ -76,6 +76,8 @@ Hall, V.A., **Liu, C.**, and Cadrin, S.X. (2015), The impact of the second seaso
 **Liu, C.** (2014). Quantifying connectivity in Buzzards Bay with application to the study of recruitment variability in the bay scallop (*Argopecten irradians*) Master’s thesis. University of Massachusetts Dartmouth, Dartmouth, MA. [doi:10.13140/RG.2.1.4007.6965](http://dx.doi.org/10.13140/RG.2.1.4007.6965).
 
 ### CONFERENCE PRESENTATIONS
+**Liu, C.**, Onat, Y., Massidda, C., Truscinski, J., O'Donnell, J. [Modeling of Future Flood Risks with Sea Level Rise and Mitigation Measures: A Case Study in West Haven, CT, USA](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1152530). AGU Fall Meeting. Dec. 2022, Chicago, IL  ([Virtual poster presentation](documents/2022_AGU_Fall_Poster_cliu.pdf))
+
 **Liu, C.**, Onat, Y., O'Donnell, J. [Modeling of Wave Damping by an Array of Reef Balls in the Intertidal Zone](https://sites.google.com/udel.edu/mabpom2022/agenda?authuser=0). The Middle Atlantic Bight Physical Oceanography and Meteorology (MABPOM) Meeting. Oct. 2022, Newark, DE (Poster presentation)
 
 **Liu, C.**, Jia, Y., Onat, Y., O'Donnell, J. [Modeling the Extreme Storm Surge and Waves and Nearshore Flooding in the Long Island Sound](https://custom.cvent.com/5479C775AB564C74B80D23D54716EA47/files/b81d0436b89d4060b7dfec1583536ef8.pdf). Long Island Sound Research Conference. May 2022, Bridgeport, CT (Oral presentation)
